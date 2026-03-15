@@ -1,1 +1,42 @@
-# WLAB1donacier
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite City</title>
+</head>
+<body>
+
+    <h1>Miami, Florida, USA</h1>
+
+    <img src="mi.png" alt="A picture of my favorite city, Miami">
+
+    <h2>History</h2>
+    <p>
+        The first inhabitants of Miami were Paleo-Indians who discovered the area over 10,000 years ago. Later, the Tequesta people, a Native American tribe, called Miami home for nearly 2,000 years. Many thrived along the Miami River, establishing villages in the subtropical environment. There were about 350,000 of them until the Spanish arrived in 1513. The arrival of European explorers in the 16th century, including Juan Ponce de León, marked a turning point. A short 250 years later, the Tequesta were virtually extinct, but the Miccosukee Tribe of Indians would arrive shortly after 1715. The Spanish retained control over Florida for the next 300 years, with a brief stint of British rule in the late 18th century, until the Spanish sold it to the United States for $5 million dollars in 1821.
+    </p>
+
+    <h2>Location</h2>
+    <img src="miami-map.png" alt="A map of Miami">
+
+    <h2>Things to Do in Miami</h2>
+    <ol>
+        <li>Everglades Tour from Miami</li>
+        <li>Key West Day Trip</li>
+        <li>Hop-On Hop-Off Big Bus Sightseeing Tour</li>
+    </ol>
+
+    <p>
+        <a href="https://www.miamiandbeaches.com/" target="_blank">Check out Miami</a>
+    </p>
+
+    <p>
+        <a href="https://www.miamiandbeaches.com/" target="_blank">What Miami has to offer</a>
+    </p>
+
+    <footer>
+        <p style="text-align: center;">Created by: Donacier Tillus</p>
+    </footer>
+
+</body>
+</html>
