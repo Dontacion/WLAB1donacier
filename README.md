@@ -9,7 +9,7 @@
 
     <h1>Miami, Florida, USA</h1>
 
-    <img src="mi.png" alt="A picture of my favorite city, Miami">
+    <img src="picture.png" alt="A picture of my favorite city, Miami">
 
     <h2>History</h2>
     <p>
